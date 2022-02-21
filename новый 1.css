@@ -1,0 +1,53 @@
+
+.header{
+	border: 1px black solid;
+	height:162px;
+}
+
+.contact{
+	text-align:right;
+
+}
+
+.logo{
+	border: 1px black solid;
+}
+
+.h1{
+	border: 1px black solid;
+	display:flex;
+	justify-content:space-around;
+}
+
+.name{
+
+	border: 1px black solid;
+	display:flex;
+	justify-content:center;
+}
+
+
+.content{
+	border: 1px black solid;
+	display:flex;
+	justify-content:center;
+	height: 300px;
+	align-items:center;
+}
+
+.footer{
+	border: 1px black solid;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+.ul{
+	 list-style: none;
+
+}
+
+.f1{
+	border: 1px black solid;
+}
+
